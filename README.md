@@ -60,5 +60,4 @@ branch management, pull requests, and conflict resolution
 
 using Git and GitHub.
 
-Project Status: Final version from main branch.
-
+Project Status: Stable and updated version.
